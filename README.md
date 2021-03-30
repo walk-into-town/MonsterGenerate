@@ -1,4 +1,4 @@
-##해당 파일들은 https://github.com/MatthewRayfield/pokemon-gpt-2에서 가져 왔습니다.##
+##해당 파일들은 https://github.com/MatthewRayfield/pokemon-gpt-2 에서 가져 왔습니다.##
 
 # Pokemon GPT-2
 
