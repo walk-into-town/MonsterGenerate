@@ -52,8 +52,8 @@ To use this, make a folder named "checkpoint" and place the unzipped pokemon-gpt
 Big thanks to the [GPT-2-Simple](https://github.com/minimaxir/gpt-2-simple) project by Max Woolf. I wouldn't have done any of this if that project hadn't made GPT-2 work so straight forward.
 
 ## How to use?
-1. GenerateModule.py를 다운 받아줍니다.
-2. pip install -r requirements.txt를 해주고 tensorflow=1.15 버전을 다운받아 줍시다.(파이썬 버전은 3.7을 씁시다.)
+1. GenerateModule.py와 pokemon-gpt-2-multigen-250000.zip 을 다운 받아줍니다.
+2. pip install -r requirements.txt를 해주고 tensorflow=1.15 버전을 다운받아 줍시다.(vs코드에서 아나콘다를 사용할시에 텐서플로에 import에러가 생깁니다. 텐서플로는 아나콘다에서 따로 설치해 줍시다.그리고 저는 파이썬 3.7 버전을 사용했습니다.) 
 3. 해당 파일이 있는 위치에 checkpoint폴더를 생성해주고 pokemon-gpt-2-multigen-250000.zip의 압축을 풀어줍니다.
 4. GenerateModule.py를 실행시켜줍니다.
 5. pokemon-gpt-2-image 파일이 생성되고 해당 폴더에 이미지들이 저장됩니다.
